@@ -1,0 +1,10 @@
+D:\ISM\Business application programming\Assingment_04-10\Solar4U\bin\Debug\Solar4U.exe.config
+D:\ISM\Business application programming\Assingment_04-10\Solar4U\bin\Debug\Solar4U.exe
+D:\ISM\Business application programming\Assingment_04-10\Solar4U\bin\Debug\Solar4U.pdb
+D:\ISM\Business application programming\Assingment_04-10\Solar4U\obj\Debug\Solar4U.csproj.AssemblyReference.cache
+D:\ISM\Business application programming\Assingment_04-10\Solar4U\obj\Debug\Solar4U.mainForm.resources
+D:\ISM\Business application programming\Assingment_04-10\Solar4U\obj\Debug\Solar4U.Properties.Resources.resources
+D:\ISM\Business application programming\Assingment_04-10\Solar4U\obj\Debug\Solar4U.csproj.GenerateResource.cache
+D:\ISM\Business application programming\Assingment_04-10\Solar4U\obj\Debug\Solar4U.csproj.CoreCompileInputs.cache
+D:\ISM\Business application programming\Assingment_04-10\Solar4U\obj\Debug\Solar4U.exe
+D:\ISM\Business application programming\Assingment_04-10\Solar4U\obj\Debug\Solar4U.pdb
