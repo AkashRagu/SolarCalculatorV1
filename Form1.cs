@@ -1,9 +1,5 @@
-﻿/* Student Name: AKASH RAGUPATHI
- * Date: 04/10/2024
- * Assignment: 1
- * Assignment: Create a sales quote calculator
- * for Solar4U company
-*/
+﻿// AUTHOR: AKASH Ragupathi
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
