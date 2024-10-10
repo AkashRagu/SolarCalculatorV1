@@ -1,5 +1,4 @@
 ﻿/* Student Name: AKASH RAGUPATHI
- * Student ID: 24232954
  * Date: 04/10/2024
  * Assignment: 1
  * Assignment: Create a sales quote calculator
